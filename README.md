@@ -1,7 +1,7 @@
 # Heartbeat ❤️  
 *A Digital Love Confession Website*  
 
-![Heartbeat Animation Demo](./img/image.png)
+![Heartbeat Animation Demo](./img/Demo.png)
 
 > **"When code meets 💖... A creative way to confess your feelings through an interactive website!"**  
 
@@ -16,15 +16,12 @@
 
 ---
 
-## 🚀 **Live Demo**  
-**[Visit the Live Website](https://love-confessss.netlify.app)**
-
 ---
 
 ## 🛠️ **Installation**  
 1. **Clone the repo**  
    ```bash  
-   git clone https://github.com/Aoudumber-Bade/Love-Confession-Website  
+   https://github.com/Rishil-patel/Birthday_Wishing.git 
    ```  
 2. **just open `index.html` in a browser!**  
 
